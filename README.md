@@ -3,7 +3,7 @@ A tiny HTML project to practice Git basics
 
 This is to myself:
 1. mkdir
-2. git clone SSD
+2. git clone SSD: git clone git@github.com:merdeput/REPO_NAME.git
 3. touch/make changes -> add -> commit
 4. push
 
